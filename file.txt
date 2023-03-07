@@ -1,8 +1,1 @@
-Hello Git!!!!
-Hi Git!!!!
-
-
-bew
-
-
-these are the new changes.
+this is the new file to be pushed.
